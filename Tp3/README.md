@@ -6,7 +6,7 @@
    [___Simpson ](#Simpson)
 ## Introduction :
 ## Méthode :
-### *réctangles :
+### * réctangles :
   ### *point_milieu :
   ### *trapèzes :
   ### *Simpson :
