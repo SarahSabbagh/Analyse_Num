@@ -1,6 +1,6 @@
 # Tp3 Intégration Numérique
 - [Introduction](#Introduction)
-- [Méthode :](#Méthode)
+- [Méthode :](#Méthode) <br/>
 -[réctangles ](#réctangles ) <br/>
 -[point_milieu](#point_milieu) <br/>
 -[trapèzes](#trapèzes)<br/>
