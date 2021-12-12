@@ -4,4 +4,4 @@ L’objectif de ce TP : est de rechercher une valeur approchée de ⍺ avec une 
 * La méthode de la dichotomie 
 * La méthode de point fixe
 * La méthode de Newton
-![Z(i,j)=X(i,k) * Y(k, j); k=1 to n](http://www.sciweavers.org/tex2img.php?
+
