@@ -1,12 +1,12 @@
 # Tp3 Intégration Numérique
-- [But](#But)
+- [Introduction](#Introduction)
 - [Méthode :](#Méthode )
- *[point_milieu](#point_milieu)
- *[trapèzes](#trapèzes)
- *[Simpson ](#Simpson)
-## But :
+   *[point_milieu](#point_milieu)
+   *[trapèzes](#trapèzes)
+   *[Simpson ](#Simpson)
+## Introduction :
 ## Méthode :
-  ### réctangles :
-  ### point_milieu :
-  ### trapèzes :
-  ### Simpson :
+  ### ___réctangles :
+  ### ___point_milieu :
+  ### ___trapèzes :
+  ### ___Simpson :
