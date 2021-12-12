@@ -1,12 +1,12 @@
 #Tp3 Intégration Numérique
 - [But](#But)
-- [Méthode ](#Méthode )
-- [Méthode du point milieu](#Méthode du point milieu)
-- [Méthode des trapèzes](#Méthode des trapèzes)
-- [Méthode de Simpson ](#Méthode de Simpson)
+- [Méthode :](#Méthode )
+*[point_milieu](#point_milieu)
+*[trapèzes](#trapèzes)
+*[ Simpson ](#Simpson)
 ##But :
 ##Méthode :
-  *Méthode des réctangles :
-  *Méthode du point milieu :
-  *Méthode des trapèzes :
-  *Méthode de Simpson :
+  ###réctangles :
+  ###point_milieu :
+  ###trapèzes :
+  ###Simpson :
