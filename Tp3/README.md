@@ -1,10 +1,10 @@
 # Tp3 Intégration Numérique
 - [Introduction](#Introduction)
 - [Méthode :](#Méthode)
-[réctangles ](#réctangles ) /
-[point_milieu](#point_milieu) n/
-[trapèzes](#trapèzes)<br/>
-[Simpson ](#Simpson)
+-[réctangles ](#réctangles ) <br/>
+-[point_milieu](#point_milieu) <br/>
+-[trapèzes](#trapèzes)<br/>
+-[Simpson ](#Simpson)
 ## Introduction :
 ## Méthode :
 #### -réctangles :
