@@ -20,8 +20,8 @@ Soit, la droite d'équation :
 Y = f(x<sub>n</sub>) + f(x<sub>n</sub>)(x − x<sub>n</sub>). <br/>
 Son intersection avec l'axe des abscisses fournit une approximation de la solution x<sub>∞</sub>.<br/>
 A nouveau, on renouvelle le procédé jusqu'à obtenir une approximation suffisante, d'où:<br/>
-x<sub>0</sub> étant donné
-Pour n = 0, 1, 2, ...
+x<sub>0</sub> étant donné <br/>
+Pour n = 0, 1, 2, ... <br/>
 x<sub>n+1</sub> = x<sub>n</sub> −f(x<sub>n</sub>)/f′(x<sub>n</sub>).
 
 ## La méthode de Newton :
