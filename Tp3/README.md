@@ -2,7 +2,6 @@
 - [Introduction](#Introduction)
 - [Méthode :](#Méthode) <br/>
 -[réctangles ](#réctangles ) <br/>
--[point_milieu](#point_milieu) <br/>
 -[trapèzes](#trapèzes)<br/>
 -[Simpson ](#Simpson)
 ## Introduction :
@@ -22,7 +21,6 @@ On considère le point milieu de chaque sous intervalle pour augmenter la préci
 L’expression de l’intégrale devient dans ce cas : <br/>
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{2}\sum_{i=1}^{n} f(\frac{x_{i%2B1} + x_i}{x_i})">
 
-#### -point_milieu :
 #### -trapèzes :
 Le principe de l’approximation d’une intégrale par la méthode des trapèzes est
 illustré dans la figure(III.2).
