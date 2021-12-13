@@ -4,6 +4,6 @@ sympy==1.4
 mpmath==1.2.1
 ipywidgets==7.6.3
 scipy==1.6.2
-tkinter==8.6.9
+
 
 
