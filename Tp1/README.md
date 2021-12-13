@@ -9,11 +9,11 @@ L’objectif de ce TP : est de rechercher une valeur approchée de ⍺ avec une 
  > Pour n = 0, 1, 2, ..., N, faire <br/>
  <img src="https://render.githubusercontent.com/render/math?math=m=\frac{(a_n%2Bb_n)}{2}"> <br/>
  Si f(a<sub>n</sub>) f(m) ≤ 0, a<sub>n+1</sub> = a<sub>n</sub>, b<sub>n+1</sub>= m <br/>
- Sinon a<sub>n+1</sub>= m, b<sub>n+1</sub>= b<sub>n</sub>.
-On a : a<sub>n+1</sub> − b<sub>n+1</sub> =1 <frac>2</frac>(a<sub>n</sub> − b<sub>n</sub>), 
+ Sinon a<sub>n+1</sub>= m, b<sub>n+1</sub>= b<sub>n</sub>. <br/>
+On a : a<sub>n+1</sub> − b<sub>n+1</sub> =<img src="https://render.githubusercontent.com/render/math?math=m=\frac{1}{2<sub>n</sub>}"> <frac>2</frac>(a<sub>n</sub> − b<sub>n</sub>), 
 soit par récurrence a<sub>n</sub> − b<sub>n</sub> =1 <frac>2<sup>n</sup></frac>(a<sub>0</sub> − b<sub>0</sub>)
 Il en résulte que cette méthode est toujours convergente puisque a<sub>n</sub> − b<sub>n</sub> tend vers 0 quand
-n tend vers l'infini. On peut choisir le temps d'arrêt N pour que :
+n tend vers l'infini. On peut choisir le temps d'arrêt N pour que : <br/>
 > 1 <frac>2<sup>n</sup></frac> (a<sub>0</sub> − b<sub>0</sub>) < ε = précision choisie.
 ## La méthode de point fixe :
 ## La méthode de Newton :
