@@ -4,7 +4,7 @@ L’objectif de ce TP : est de rechercher une valeur approchée de ⍺ avec une 
 * [La méthode de la dichotomie](#dichotomie) 
 * [La méthode de point fixe](#fixe) 
 * [La méthode de Newton](#Newton) 
-## La méthode de la dichotomie : a<sub>&0;</sub>(x)
- Soit f :<img src="https://render.githubusercontent.com/render/math?math=[a_0,b_0]">→ R continue et telle que f(<img src="https://render.githubusercontent.com/render/math?math=a_0">) f(<img src="https://render.githubusercontent.com/render/math?math=b_0">)≤ 0  
+## La méthode de la dichotomie : a<sub>0</sub>
+ Soit f :[a<sub>0</sub>,b<sub>0</sub>]→ R continue et telle que f(a<sub>0</sub>) f(b<sub>0</sub>)≤ 0  
 ## La méthode de point fixe :
 ## La méthode de Newton :
