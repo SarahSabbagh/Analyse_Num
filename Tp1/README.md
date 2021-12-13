@@ -7,7 +7,7 @@ L’objectif de ce TP : est de rechercher une valeur approchée de ⍺ avec une 
 ## La méthode de la dichotomie : 
  Soit f :[a<sub>0</sub>,b<sub>0</sub>]→ R continue et telle que f(a<sub>0</sub>) f(b<sub>0</sub>)≤ 0  
  > Pour n = 0, 1, 2, ..., N, faire <br/>
- <img src="https://render.githubusercontent.com/render/math?math=m=\frac{(a_n \+ \b_n)}{2}"> <br/>
+ <img src="https://render.githubusercontent.com/render/math?math=m=\frac{(a_n \plus \b_n)}{2}"> <br/>
  Si f(a<sub>n</sub>) f(m) ≤ 0, a<sub>n+1</sub> = a<sub>n</sub>, b<sub>n+1</sub>= m <br/>
  Sinon a<sub>n+1</sub>= m, b<sub>n+1</sub>= b<sub>n</sub>.
 ## La méthode de point fixe :
