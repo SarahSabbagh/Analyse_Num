@@ -26,7 +26,11 @@ L’expression de l’intégrale devient dans ce cas : <br/>
 #### -trapèzes :
 Le principe de l’approximation d’une intégrale par la méthode des trapèzes est
 illustré dans la figure(III.2).
-La formule générale de l’intégrale par la méthode des trapèzes s’écrit :
-
- <img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{2}\sum_{i=1}^{n} (f(x_{i%2B1}) + f(x_i))">
+La formule générale de l’intégrale par la méthode des trapèzes s’écrit :<br/>
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{2}\sum_{i=1}^{n} (f(x_{i%2B1}) + f(x_i))">
 #### -Simpson :
+Le principe de l’approximation d’une intégrale par la méthode de Simpson est
+illustré dans la figure ci-dessous :
+Figure III.3 : Principe de la méthode de Simpson
+La formule générale de l’intégrale par la méthode de Simpson s’écrit :
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{3}[f(a)+4\sum_{i=2,4,6}^{n}f(x_i)+2\sum_{i=1,3,5}^{n-1}f(x_i)+f(b)">
