@@ -32,5 +32,5 @@ La formule générale de l’intégrale par la méthode des trapèzes s’écrit
 Le principe de l’approximation d’une intégrale par la méthode de Simpson est
 illustré dans la figure ci-dessous :
 Figure III.3 : Principe de la méthode de Simpson
-La formule générale de l’intégrale par la méthode de Simpson s’écrit :
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{3}[f(a)+4\sum_{i=2,4,6}^{n}f(x_i)+2\sum_{i=1,3,5}^{n-1}f(x_i)+f(b)">
+La formule générale de l’intégrale par la méthode de Simpson s’écrit :<br/>
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{3}[f(a)%2B4\sum_{i=2,4,6}^{n}f(x_i)%2B2\sum_{i=1,3,5}^{n-1}f(x_i)%2Bf(b)">
