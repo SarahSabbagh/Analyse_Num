@@ -17,9 +17,9 @@ Découpons donc l'intervalle [a, b] en n sous-intervalles [x<sub>i-1</sub>,x<sub
 #### -réctangles :
 Le principe de cette technique est illustré dans la figure (3.1)
 L’expression de l’intégrale devient :<br/>
-<img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{2}\sum_{i=1}^{n} f(x_{i%2B1} + x_i)f(x_i)">
-On considère le point milieu de chaque sous intervalle pour augmenter la précision.
-L’expression de l’intégrale devient dans ce cas :
+<img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{2}\sum_{i=1}^{n} f(x_{i%2B1} + x_i)f(x_i)"> <br/>
+On considère le point milieu de chaque sous intervalle pour augmenter la précision.<br/>
+L’expression de l’intégrale devient dans ce cas : <br/>
 <img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{2}\sum_{i=1}^{n} f(\frac{x_{i%2B1} + x_i}{x_i})">
 
 #### -point_milieu :
