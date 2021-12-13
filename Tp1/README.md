@@ -25,3 +25,16 @@ Pour n = 0, 1, 2, ... <br/>
 x<sub>n+1</sub> = x<sub>n</sub> −f(x<sub>n</sub>)/f′(x<sub>n</sub>).
 
 ## La méthode de Newton :
+Elle consiste à d'abord remplacer l'équation <br/>
+(∗) f (x) = 0 <br/>
+par une équation <br/>
+(∗∗) g (x) = x<br/>
+ayant mêmes solutions. On est ainsi ramené à la recherche des points fixes de l'application g.<br/>
+Le remplacement de (∗) par (∗∗) est toujours possible en posant, par exemple,
+g (x) = f (x) + x. Ce n'est évidemment pas forcément le meilleur choix !<br/>
+On choisit x0<br/>
+Pour n = 0, 1, 2, ...<br/>
+xn+1 = g (xn).
+Cette méthode est justifiée par la :<br/>
+Proposition : Soit g : [a, b] → [a, b] continue et x<sub>0</sub> ∈ [a, b] . Si x<sub>n</sub> converge vers x<sub>∞</sub>, alors <br/>
+x<sub>∞</sub> = g (x<sub>∞</sub>).
