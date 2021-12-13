@@ -4,6 +4,7 @@ L’objectif de ce TP : est de rechercher une valeur approchée de ⍺ avec une 
 * [La méthode de la dichotomie](#dichotomie) 
 * [La méthode de point fixe](#fixe) 
 * [La méthode de Newton](#Newton) 
+* [Comparaison](#Comparaison)
 ## La méthode de la dichotomie : 
  Soit f :[a<sub>0</sub>,b<sub>0</sub>]→ R continue et telle que f(a<sub>0</sub>) f(b<sub>0</sub>)≤ 0  
  > Pour n = 0, 1, 2, ..., N, faire <br/>
@@ -37,4 +38,5 @@ Pour n = 0, 1, 2, ...<br/>
 xn+1 = g (xn).
 Cette méthode est justifiée par la :<br/>
 Proposition : Soit g : [a, b] → [a, b] continue et x<sub>0</sub> ∈ [a, b] . Si x<sub>n</sub> converge vers x<sub>∞</sub>, alors <br/>
-x<sub>∞</sub> = g (x<sub>∞</sub>).
+x<sub>∞</sub> = g (x<sub>∞</sub>).## Comparaison :
+
