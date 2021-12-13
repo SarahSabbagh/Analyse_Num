@@ -16,4 +16,12 @@ Il en résulte que cette méthode est toujours convergente puisque a<sub>n</sub>
 n tend vers l'infini. On peut choisir le temps d'arrêt N pour que : <br/>
 >  <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2^n}(a_0-b_0)"> < ε = précision choisie.
 ## La méthode de point fixe :
+Soit, la droite d'équation :
+Y = f(x<sub>n</sub>) + f(x<sub>n</sub>)(x − x<sub>n</sub>). <br/>
+Son intersection avec l'axe des abscisses fournit une approximation de la solution x<sub>∞</sub>.<br/>
+A nouveau, on renouvelle le procédé jusqu'à obtenir une approximation suffisante, d'où:<br/>
+x<sub>0</sub> étant donné
+Pour n = 0, 1, 2, ...
+x<sub>n+1</sub> = x<sub>n</sub> −f(x<sub>n</sub>)/f′(x<sub>n</sub>).
+
 ## La méthode de Newton :
