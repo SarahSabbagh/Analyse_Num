@@ -10,10 +10,10 @@ L’objectif de ce TP : est de rechercher une valeur approchée de ⍺ avec une 
  <img src="https://render.githubusercontent.com/render/math?math=m=\frac{(a_n%2Bb_n)}{2}"> <br/>
  Si f(a<sub>n</sub>) f(m) ≤ 0, a<sub>n+1</sub> = a<sub>n</sub>, b<sub>n+1</sub>= m <br/>
  Sinon a<sub>n+1</sub>= m, b<sub>n+1</sub>= b<sub>n</sub>. <br/>
-On a :<img src="https://render.githubusercontent.com/render/math?math=a_n_%2_1-b_n%2B1=\frac{1}{2^n}(a_n-b_n)">, 
-soit par récurrence a<sub>n</sub> − b<sub>n</sub> =<img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2^n}(a_n-b_n)">'(a<sub>0</sub> − b<sub>0</sub>)'
+On a :<img src="https://render.githubusercontent.com/render/math?math=a_n_%2_1-b_n%2B1=\frac{1}{2^n}(a_n-b_n)">, <br/>
+soit par récurrence <img src="https://render.githubusercontent.com/render/math?math=a_n-b_n=\frac{1}{2^n}(a_0-b_0)"><br/>
 Il en résulte que cette méthode est toujours convergente puisque a<sub>n</sub> − b<sub>n</sub> tend vers 0 quand
 n tend vers l'infini. On peut choisir le temps d'arrêt N pour que : <br/>
->  <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2^n}(a_n-b_n)"> '(a<sub>0</sub> − b<sub>0</sub>)' < ε = précision choisie.
+>  <img src="https://render.githubusercontent.com/render/math?math=\frac{1}{2^n}(a_0-b_0)"> < ε = précision choisie.
 ## La méthode de point fixe :
 ## La méthode de Newton :
