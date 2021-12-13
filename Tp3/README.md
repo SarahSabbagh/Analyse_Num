@@ -24,4 +24,9 @@ L’expression de l’intégrale devient dans ce cas : <br/>
 
 #### -point_milieu :
 #### -trapèzes :
+Le principe de l’approximation d’une intégrale par la méthode des trapèzes est
+illustré dans la figure(III.2).
+La formule générale de l’intégrale par la méthode des trapèzes s’écrit :
+
+ <img src="https://render.githubusercontent.com/render/math?math=\displaystyle I=\frac{h}{2}\sum_{i=1}^{n} (f(x_{i%2B1}) + f(x_i))">
 #### -Simpson :
