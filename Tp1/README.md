@@ -10,7 +10,7 @@ L’objectif de ce TP : est de rechercher une valeur approchée de ⍺ avec une 
  <img src="https://render.githubusercontent.com/render/math?math=m=\frac{(a_n%2Bb_n)}{2}"> <br/>
  Si f(a<sub>n</sub>) f(m) ≤ 0, a<sub>n+1</sub> = a<sub>n</sub>, b<sub>n+1</sub>= m <br/>
  Sinon a<sub>n+1</sub>= m, b<sub>n+1</sub>= b<sub>n</sub>. <br/>
-On a :<img src="https://render.githubusercontent.com/render/math?math=a_n_%2_1-b_n%2B1=\frac{1}{2^n}(a_n-b_n)">, <br/>
+On a :<img src="https://render.githubusercontent.com/render/math?math=a_n_%2B_1-b_n_%2B_1=\frac{1}{2^n}(a_n-b_n)">, <br/>
 soit par récurrence <img src="https://render.githubusercontent.com/render/math?math=a_n-b_n=\frac{1}{2^n}(a_0-b_0)"><br/>
 Il en résulte que cette méthode est toujours convergente puisque a<sub>n</sub> − b<sub>n</sub> tend vers 0 quand
 n tend vers l'infini. On peut choisir le temps d'arrêt N pour que : <br/>
